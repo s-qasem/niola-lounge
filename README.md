@@ -1,6 +1,8 @@
 # Niola Lounge ✨
 
-A modern, responsive website and content management experience built for Niola Lounge.
+A modern, responsive website and content management experience designed and developed for Niola Lounge.
+
+![Niola Lounge Homepage](Niola-HeroPage.png)
 
 🌐 **Live Website:** https://niola-lounge.vercel.app
 
